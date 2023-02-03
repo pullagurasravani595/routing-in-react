@@ -1,0 +1,23 @@
+/* Write your CSS code here */
+
+.not-found-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.not-found {
+  background-color: transparent;
+  width: 200px;
+  height: 200px;
+}
+
+.description {
+  color: #551e53;
+  font-family: 'Roboto';
+  font-size: 24px;
+  margin-top: 40px;
+  font-weight: 600;
+}

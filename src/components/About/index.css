@@ -1,0 +1,31 @@
+/* Write your CSS code here */
+
+.about-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.about {
+  background-color: transparent;
+  width: 200px;
+  height: 200px;
+}
+
+.description {
+  color: #6d396b;
+  font-family: 'Roboto';
+  font-size: 24px;
+  margin-top: 40px;
+  font-weight: 600;
+}
+
+.second-description {
+  color: #555555;
+  font-family: 'Roboto';
+  font-size: 18px;
+  margin-top: 40px;
+  font-weight: 600;
+}
